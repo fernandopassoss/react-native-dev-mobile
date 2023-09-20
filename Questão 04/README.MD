@@ -26,3 +26,6 @@ Assim como as outras aplicações essa é mais um com foco em aprendizado. Nela 
 ## Conclusão
 
 A implementação desta simples aplicação React Native com o objetivo de solicitar um nome e exibir uma saudação personalizada ofereceu valiosas lições de aprendizado para o desenvolvimento de aplicativos móveis. Alguns dos pontos de aprendizado são: Desenvolvimento Iterativo, Tratamento de Eventos e Gerenciamento de Estado.
+
+## Aplicação em Uso
+<img src="https://github.com/fernandopassoss/react-native/blob/5f6926fe097107ea1502157f9f555f77ffb1345b/Quest%C3%A3o%2004/q4.png">
