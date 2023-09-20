@@ -27,3 +27,4 @@ Visando o aprendizado do React Native, nesta aplicação foram utilizados concei
 
 ## Aplicação em Uso
 !(https://github.com/fernandopassoss/react-native/blob/88d0601c6122f4fe8cc590ba77f4a875d5b0ace3/Quest%C3%A3o%2003/q3.png)
+<img src="https://github.com/fernandopassoss/react-native/blob/88d0601c6122f4fe8cc590ba77f4a875d5b0ace3/Quest%C3%A3o%2003/q3.png">
