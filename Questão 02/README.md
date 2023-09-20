@@ -37,3 +37,5 @@ O projeto será iniciado e a aplicação ficará disponível para que dispositiv
 ## Conclusão
 Esta aplicação React Native é uma demonstração simples de como criar uma interface de usuário básica com um contador que aumenta a cada vez que um botão é pressionado. Embora seja um exemplo mínimo, ele ilustra conceitos fundamentais de desenvolvimento com React Native, como a definição de estados, renderização de componentes e manipulação de eventos
 
+## Aplicação em Uso
+<img src="https://github.com/fernandopassoss/react-native/blob/a90635f23e67b7c51ba931efb3a163dfb755da58/Quest%C3%A3o%2002/q2.png">
