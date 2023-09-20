@@ -28,3 +28,6 @@ Cada estrela pode ser clicada, e a classificação é atualizada dinamicamente.
 
 
 O componente Rating é um componente simples e fácil de usar para classificar coisas em React Native. Ele pode ser personalizado para atender às necessidades do seu aplicativo.
+
+## Aplicação em Uso 
+<img src="https://github.com/fernandopassoss/react-native/blob/aac704fe406070d4c1c2f813747d0b1e62249528/Quest%C3%A3o%2001/q1.png">
