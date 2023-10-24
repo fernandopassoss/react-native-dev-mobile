@@ -27,7 +27,6 @@ O projeto será iniciado e a aplicação ficará disponível para que dispositiv
 - Visualizar a classificação de cada livro em forma de estrelas.
 
 ## Capturas de tela
-<img src="[/assets/img/arquivo.gif](https://github.com/fernandopassoss/react-native/blob/458a30768c5c7fd62101ad2355ff5e151fb231de/M%C3%B3dulo%202/img1.png)">
-<img src="Módulo 2/img1.png">
+<img src="https://github.com/fernandopassoss/react-native/blob/458a30768c5c7fd62101ad2355ff5e151fb231de/M%C3%B3dulo%202/img1.png">
 https://github.com/fernandopassoss/react-native/blob/458a30768c5c7fd62101ad2355ff5e151fb231de/M%C3%B3dulo%202/img1.png
 https://github.com/fernandopassoss/react-native/blob/458a30768c5c7fd62101ad2355ff5e151fb231de/M%C3%B3dulo%202/img2.png
