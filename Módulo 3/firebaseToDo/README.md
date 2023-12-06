@@ -39,7 +39,7 @@ Este é um aplicativo simples de lista de tarefas desenvolvido usando React Nati
 
 ## Imagens da aplicação em funcionamento
 
-<img src="https://github.com/fernandopassoss/react-native/blob/1ac79829a921a02e6cade5d2296ee68ca732887e/M%C3%B3dulo%203/firebaseToDo/print1.png">
+Aqui fica print 1
 
 <img src="https://github.com/fernandopassoss/react-native/blob/1ac79829a921a02e6cade5d2296ee68ca732887e/M%C3%B3dulo%203/firebaseToDo/print2.png">
 
