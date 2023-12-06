@@ -1,6 +1,6 @@
 # App de Lista de Tarefas
 
-Este é um aplicativo simples de lista de tarefas desenvolvido usando React Native e Firebase.
+Este é um aplicativo simples de lista de tarefas desenvolvido usando React Native e Firebase. Utiliza também do Redux para a contagem de tarefas que o usuário concluiu.
 
 ## Funcionalidades
 
@@ -39,7 +39,7 @@ Este é um aplicativo simples de lista de tarefas desenvolvido usando React Nati
 
 ## Imagens da aplicação em funcionamento
 
-<img src="https://github.com/fernandopassoss/react-native/blob/1ac79829a921a02e6cade5d2296ee68ca732887e/M%C3%B3dulo%203/firebaseToDo/print1.png">
+<img src="https://github.com/fernandopassoss/react-native/blob/2d8df9a8ea0fe1a37da0ad86c2524eab85ae50aa/M%C3%B3dulo%203/firebaseToDo/print%206.png">
 
 <img src="https://github.com/fernandopassoss/react-native/blob/1ac79829a921a02e6cade5d2296ee68ca732887e/M%C3%B3dulo%203/firebaseToDo/print2.png">
 
